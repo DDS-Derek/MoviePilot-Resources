@@ -2,26 +2,31 @@
   "version": "1.0.0",
   "resources": {
     "sites.cp311-win_amd64.pyd": {
+      "type": "auth",
       "platform": "windows",
       "target": "app/helper",
       "version": "1.0.0"
     },
     "sites.cpython-311-aarch64-linux-gnu.so": {
+      "type": "auth",
       "platform": "aarch64",
       "target": "app/helper",
       "version": "1.0.0"
     },
     "sites.cpython-311-darwin.so": {
+      "type": "auth",
       "platform": "darwin",
       "target": "app/helper",
       "version": "1.0.0"
     },
     "sites.cpython-311-x86_64-linux-gnu.so": {
+      "type": "auth",
       "platform": "linux",
       "target": "app/helper",
       "version": "1.0.0"
     },
     "user.sites.bin": {
+      "type": "sites",
       "platform": "all",
       "target": "config/sites",
       "version": "1.0.0"
