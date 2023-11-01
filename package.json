@@ -27,7 +27,6 @@
     },
     "user.sites.bin": {
       "type": "sites",
-      "platform": "all",
       "target": "config/sites",
       "version": "1.0.0"
     }
