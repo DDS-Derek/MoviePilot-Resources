@@ -3,25 +3,25 @@
   "resources": {
     "sites.cp311-win_amd64.pyd": {
       "type": "auth",
-      "platform": "windows",
+      "platform": "Windows",
       "target": "app/helper",
       "version": "1.0.0"
     },
     "sites.cpython-311-aarch64-linux-gnu.so": {
       "type": "auth",
-      "platform": "aarch64",
+      "platform": "Arm64",
       "target": "app/helper",
       "version": "1.0.0"
     },
     "sites.cpython-311-darwin.so": {
       "type": "auth",
-      "platform": "darwin",
+      "platform": "MacOS",
       "target": "app/helper",
       "version": "1.0.0"
     },
     "sites.cpython-311-x86_64-linux-gnu.so": {
       "type": "auth",
-      "platform": "linux",
+      "platform": "Linux",
       "target": "app/helper",
       "version": "1.0.0"
     },
