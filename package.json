@@ -28,7 +28,7 @@
     "user.sites.bin": {
       "type": "sites",
       "target": "config/sites",
-      "version": "1.0.1"
+      "version": "1.0.2"
     }
   }
 }
