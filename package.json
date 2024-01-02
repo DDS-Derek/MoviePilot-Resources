@@ -17,7 +17,7 @@
       "type": "auth",
       "platform": "MacOS",
       "target": "app/helper",
-      "version": "1.1.0"
+      "version": "1.1.1"
     },
     "sites.cpython-311-x86_64-linux-gnu.so": {
       "type": "auth",
