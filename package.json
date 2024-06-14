@@ -28,7 +28,7 @@
     "user.sites.bin": {
       "type": "sites",
       "target": "app/helper",
-      "version": "1.4.2"
+      "version": "1.4.3"
     }
   }
 }
