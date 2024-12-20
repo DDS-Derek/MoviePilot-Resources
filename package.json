@@ -5,25 +5,25 @@
       "type": "auth",
       "platform": "Windows",
       "target": "app/helper",
-      "version": "1.4.4"
+      "version": "1.4.5"
     },
     "sites.cpython-311-aarch64-linux-gnu.so": {
       "type": "auth",
       "platform": "Arm64",
       "target": "app/helper",
-      "version": "1.4.4"
+      "version": "1.4.5"
     },
     "sites.cpython-311-darwin.so": {
       "type": "auth",
       "platform": "MacOS",
       "target": "app/helper",
-      "version": "1.4.4"
+      "version": "1.4.5"
     },
     "sites.cpython-311-x86_64-linux-gnu.so": {
       "type": "auth",
       "platform": "Linux",
       "target": "app/helper",
-      "version": "1.4.4"
+      "version": "1.4.5"
     },
     "user.sites.bin": {
       "type": "sites",
